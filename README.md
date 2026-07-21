@@ -1,9 +1,8 @@
-
-# 👋 Kobby Baah
-
-### Cybersecurity Professional | AI Governance | Enterprise Security
-
-> Building practical cybersecurity solutions through engineering, governance, research, and continuous learning.
+![Security+](https://img.shields.io/badge/Security+-In%20Progress-blue)
+![NIST RMF](https://img.shields.io/badge/NIST-RMF-green)
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![AI Governance](https://img.shields.io/badge/AI-Governance-purple)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-blue)
 
 ---
 
