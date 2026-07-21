@@ -1,72 +1,75 @@
-![Security+](https://img.shields.io/badge/Security+-In%20Progress-blue)
-![NIST RMF](https://img.shields.io/badge/NIST-RMF-green)
-![Python](https://img.shields.io/badge/Python-Programming-yellow)
-![AI Governance](https://img.shields.io/badge/AI-Governance-purple)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-blue)
+# 👋 Kobby Baah
+
+## Cybersecurity Professional | AI Governance | Enterprise Security
+
+> Building secure systems through engineering, governance, risk management, research, and continuous learning.
 
 ---
 
-## Navigation
+## 🚀 Welcome
 
-- [👤 About Me](#about-me)
-- [🛡 Featured Projects](#featured-projects)
-- [🧪 Security Labs](#security-labs)
-- [📚 Research](#research)
-- [✍ Articles & Opinions](#articles--opinions)
-- [📖 Reflections](#reflections)
-- [📄 Resume](#resume)
-- [📬 Contact](#contact)
+Welcome to my professional cybersecurity portfolio.
+
+This repository documents my hands-on projects, technical research, security labs, original ideas, and professional reflections as I continue developing expertise in enterprise cybersecurity.
 
 ---
 
-# About Me
+# 🧭 Navigation
 
-I am a cybersecurity professional passionate about enterprise security, AI governance, Governance, Risk & Compliance (GRC), cloud security, threat detection, and secure system design.
-
-This portfolio documents my projects, research, technical labs, and professional growth.
-
----
-
-# Featured Projects
-
-🚧 Coming Soon
-
----
-
-# Security Labs
-
-🚧 Coming Soon
+| Section | Description |
+|---------|-------------|
+| 🛡 Projects | Hands-on cybersecurity engineering projects |
+| 🔬 Research | White papers and technical research |
+| 🧪 Labs | Security+, Hack The Box, TryHackMe and home lab documentation |
+| 💭 Opinions | Professional perspectives on cybersecurity |
+| 📖 Reflections | Leadership, ethics and personal growth |
+| 📄 Resume | Professional resume and certifications |
 
 ---
 
-# Research
+# ⭐ Current Focus
 
-🚧 Coming Soon
-
----
-
-# Articles & Opinions
-
-🚧 Coming Soon
-
----
-
-# Reflections
-
-🚧 Coming Soon
+- Enterprise Security
+- Governance, Risk & Compliance (GRC)
+- AI Governance
+- Cloud Security
+- Detection Engineering
+- Security Architecture
+- Python Automation
 
 ---
 
-# Resume
+# 🛠 Current Technologies
 
+- Python
+- NIST RMF
+- NIST CSF
+- Wireshark
+- Nmap
+- Splunk
+- Microsoft Sentinel
+- Microsoft Azure
+- AWS
+
+---
+
+# 📌 Featured Project
+
+🚧 **Sentinel-D**
+
+Continuous authentication platform designed to protect enterprise systems through persistent identity verification.
+
+*(Currently under development.)*
+
+---
+
+# 📫 Contact
+
+GitHub:
+https://github.com/kobbybaah
+
+LinkedIn:
 Coming Soon
 
----
-
-# Contact
-
-**GitHub:** https://github.com/kobbybaah
-
-**LinkedIn:** Coming Soon
-
-**Email:** Coming Soon
+Portfolio Website:
+Coming Soon
