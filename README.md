@@ -1,53 +1,73 @@
 
-# 👋 Hi, I'm Kobby Baah
+# 👋 Kobby Baah
 
-## Cybersecurity | AI Governance | Enterprise Security
+### Cybersecurity Professional | AI Governance | Enterprise Security
 
-Welcome to my professional portfolio.
-
-This repository documents my journey in cybersecurity through hands-on projects, technical research, security labs, governance frameworks, and original ideas.
-
-My goal is to bridge technical security engineering with governance, risk management, compliance, and emerging AI technologies.
+> Building practical cybersecurity solutions through engineering, governance, research, and continuous learning.
 
 ---
 
-## Featured Areas
+## Navigation
 
-🛡 Cybersecurity Projects
-
-🤖 AI Governance
-
-☁ Cloud Security
-
-🔍 Digital Forensics
-
-📊 Governance, Risk & Compliance (GRC)
-
-🧪 Security Labs
-
-✍ Technical Research
-
-💭 Opinions
-
-📖 Reflections
+- [👤 About Me](#about-me)
+- [🛡 Featured Projects](#featured-projects)
+- [🧪 Security Labs](#security-labs)
+- [📚 Research](#research)
+- [✍ Articles & Opinions](#articles--opinions)
+- [📖 Reflections](#reflections)
+- [📄 Resume](#resume)
+- [📬 Contact](#contact)
 
 ---
 
-## Current Focus
+# About Me
 
-- Security+
-- Enterprise GRC
-- AI Governance
-- Cloud Security
-- Detection Engineering
-- Security Architecture
+I am a cybersecurity professional passionate about enterprise security, AI governance, Governance, Risk & Compliance (GRC), cloud security, threat detection, and secure system design.
+
+This portfolio documents my projects, research, technical labs, and professional growth.
 
 ---
 
-## Connect
+# Featured Projects
 
-GitHub: https://github.com/kobbybaah
+🚧 Coming Soon
 
-LinkedIn: *(Coming Soon)*
+---
 
-Portfolio Website: *(Coming Soon)*
+# Security Labs
+
+🚧 Coming Soon
+
+---
+
+# Research
+
+🚧 Coming Soon
+
+---
+
+# Articles & Opinions
+
+🚧 Coming Soon
+
+---
+
+# Reflections
+
+🚧 Coming Soon
+
+---
+
+# Resume
+
+Coming Soon
+
+---
+
+# Contact
+
+**GitHub:** https://github.com/kobbybaah
+
+**LinkedIn:** Coming Soon
+
+**Email:** Coming Soon
